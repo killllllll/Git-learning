@@ -1,0 +1,18 @@
+Git version = git version
+To get info = git config --global
+To edit info of user details = git config --global -e
+To go back = :q
+To give username = git config --global user.name "<Name>"
+To give email Id =  git config --global user.email "<email Id>"
+To clear everything = clear
+To see every list = git config --list
+To know anything in git = git config --help
+To open notepad++ = notepad++
+To change the directory(add the directory) = cd D: 
+To create new file or directory = mkdir <filename>
+To get the file from the github = 1) copy the URL and give the command = git clone(add URL at the end)
+To see the hidden file = ls -lart (or) ls -al
+To see the status = git status
+
+ 
+
